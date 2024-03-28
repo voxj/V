@@ -13,6 +13,7 @@
 <h4><code>count int;</code>: counts until the specified number + 1;</h4>
 <h4><code>vcord.Bot.client {"prefix":"PrefixHere"};</code>: Defines the command prefix of the bot. Requires vcord to be <a href="urlthing">imported</a>;</h4>
 <h4><code>vcord.Bot.add_command {"name":"commandname","reply":"replythinghere"};</code>: Adds a command. Requires vcord to be <a href="urlthing">imported</a>;</h4>
+<h4><code>vcord.Bot.add_command {"event":"eventname","includables":"suchthingsasctxandetc","whatwillhappen":"whatwillhappen-inpython"};</code>: Adds an event. Requires vcord to be <a href="urlthing">imported</a>;</h4>
 <h4><code>vcord.Bot.AddErrorMessage "MessageHere";</code>: Adds an error message that will be replied with by the bot. Doesn't work curently. Requires vcord to be <a href="urlthing">imported</a>;</h4>
 <h4><code>vcord.Bot.run --token: TokenHere;</code>: Defines the token for the bot. Does NOT start the bot. Requires vcord to be <a href="urlthing">imported</a>;</h4>
 <h4><code>vcord.Bot.run --start;</code>: Starts the bot. Requires <code>vcord.Bot.client</code> and <code>vcord.Bot.run --token:</code> to be ran earlier. Requires vcord to be <a href="urlthing">imported</a>;</h4>
