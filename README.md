@@ -27,5 +27,8 @@
 <h4><code>wait timeinseconds;</code>: Makes a delay;</h4>
 <h4><code>true</code>, <code>false</code> and any mathematical stuff (such as 24, 26+3, 64*2/4) will print out themselves or will calculate and print out the answer to that;</h4>
 <br><br><br><br>
+<h1 align='center'>SYNTAX</h1>
+<h2 align='center'>All lines should end with a semicolon (;).</h2>
+<br><br><br><br>
 <h1 align='center'>COPYRIGHT</h1>
 <h2 align='center'>Copyright © voxj. 2022-2024, vApps LLC 2024</h2>
