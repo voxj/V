@@ -27,6 +27,9 @@
 <h4><code>wait timeinseconds;</code>: Makes a delay;</h4>
 <h4><code>true</code>, <code>false</code> and any mathematical stuff (such as 24, 26+3, 64*2/4) will print out themselves or will calculate and print out the answer to that;</h4>
 <br><br><br><br>
+<h1 align='center'>INSTALLATION</h1>
+<h2 align='center'>The installation is simple. Drop the .exe in a folder, then use it OR add it to path using <a href='https://rix0rrr.github.io/WindowsPathEditor/'>Windows Path Editor</a> (the normal path editor in regedit or etc. might not work) by adding the folder where v.exe is located to the path.</h2>
+<br><br><br><br>
 <h1 align='center'>SYNTAX</h1>
 <h2 align='center'>All lines should end with a semicolon (;).</h2>
 <br><br><br><br>
